@@ -101,12 +101,12 @@ Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
 Score: 551  Solution :  8RzF:oGK]%;CPqRRWe!zGqk<br>
 ....................................................<br>
 ..................................................<br>
-
-## RESULT:
-Thus the Simple Hill Climb Algorithm Implemented successfully.
 ................................................<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+
+## RESULT:
+Thus the Simple Hill Climb Algorithm Implemented successfully.
